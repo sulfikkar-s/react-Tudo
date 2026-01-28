@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+ background: linear-gradient(135deg, #ff512f, #dd2476);
+}
+.input-bg {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.25),
+    rgba(255, 255, 255, 0.05)
+  );
+  backdrop-filter: blur(6px);
+}
+
+
+
+
+
+
+
